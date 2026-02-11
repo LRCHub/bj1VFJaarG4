@@ -1,0 +1,88 @@
+# UVERworld – Touch off
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+FIRE
+Ato ikutsu no jiyuu wo
+No No No No No No No
+Ouh Ouh Ouh Ouh
+FIRE
+
+Saa ore no ban da sentou BATTAA
+Nani ga shippai ka nante mada shiru mae ni
+Doukasen mitsukete
+Soko ni FIRE
+
+Ogamu kami nante inai ya hoshi mo nai ya
+Demo negau koto wa yamenakatta
+Koukai osore tachidomaru ashimoto
+Soko ni FIRE
+
+Wasuretai koto wa wasurerarenai koto
+Tengoku e no michi wa jigoku kara tsunagatteru
+Wazuka na hibana ga honoo ni kawatteku
+Togatta mama de oitsuzuketeku
+Go to future
+
+Wazuka suu SENCHI datte negatta basho ni mukatte
+Susundeiku tomaru nante No, No, No...
+Kokoro ni aganatte satoshite wa akirameru
+
+Sore de mirai de nani ga ieru No, No, No...
+Susunde iku tomaru nante No, No, No...
+
+Saa omae no ban da mitsuru wa jishita
+Sono utsuwa wa man PANDA
+Afure nenryou mamire no tamashii ni
+Soko ni FIRE
+
+Genson kake WAN RAUNDO
+Shinu ka ikiru ka sore mo fukume omae no jiyuu da
+Bannin no shiru koto sae utagae
+Soko ni FIRE
+
+Koko kara bokura ato ikutsu no jiyuu wo ikite ikeru no darou
+Ichi-nen ni ichido janaku ichibyō zutsu toshi wo kasaneteyuku
+TAIMU RIMITTO nai de
+
+Wazuka suu SENCHI datte negatta basho ni mukatte
+Susunde iku tomaru nante No, No, No...
+Todokanu basho datte kanata sendatte
+Susunde iku tomaru nante No, No, No...
+Susunde iku tomaru nante No, No, No...
+
+Super (FIRE)
+Seishin no (FIRE)
+Kousoku de (FIRE)
+2 (FIRE)
+Tamashii no kaihou
+We gotta freedom
+I'm show you heart
+
+Super (FIRE)
+Seishin no (FIRE)
+Kousoku de (FIRE)
+2 (FIRE)
+Tamashii no kaihou
+We gotta freedom
+
+Koko kara bokura go ikutsu mo no jiyuu wo ikite ikeru hazu darou
+Akirameru hi wa nagai tabi no owari janaku
+Saiaku no mirai no hajimari darou
+
+Wazuka suu SENCHI datte negatta basho ni mukatte
+Susunde iku tomaru nante No, No, No...
+Kokoro ni aganatte satoshite wa akirameru
+Sore de mirai de nani ga ieru No, No, No...
+
+Sore wo dore dake nagaku
+Souzou teki ni kangaeru koto ga dekiru ka
+Yukkuri to chakujitsu ni isogu
+Sonna mujun wo kakae tsuzuke
+Nani ka wo matsu dake no jikan nante mijikai hou ga ii
+Koko ni kite saidai no buki wa
+Subete no nigai omoide to kaita haji
+Hontou no jiyuu nado nai naraba
+kore wa sore wo hitei suru tame no tabi
+```
