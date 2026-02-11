@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Touch off",
+  "base_artist": "UVERworld",
+  "createdAt": "2026-02-11T06:39:17.266494Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Touch off",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/01_Touch_off_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Touch off",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/02_Touch_off_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Touch Off",
+      "artist": "Selphius",
+      "has_synced": true,
+      "path": "select/03_Touch_Off_Selphius.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Promised Neverland OP - Touch Off",
+      "artist": "Raon Lee",
+      "has_synced": true,
+      "path": "select/04_The_Promised_Neverland_OP_-_Touch_Off_Raon_Lee.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Touch Off (From \"The Promised Neverland\")",
+      "artist": "AmaLee",
+      "has_synced": false,
+      "path": "select/05_Touch_Off_(From__The_Promised_Neverland_)_AmaLee.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Touch Off (From \"The Promised Neverland\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/06_Touch_Off_(From__The_Promised_Neverland_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Touch Off (From \"the Promised Neverland\")",
+      "artist": "Miura Jam",
+      "has_synced": false,
+      "path": "select/07_Touch_Off_(From__the_Promised_Neverland_)_Miura_Jam.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Touch off",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/08_Touch_off_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Touch Off",
+      "artist": "NateWantsToBattle",
+      "has_synced": true,
+      "path": "select/09_Touch_Off_NateWantsToBattle.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Touch off",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/10_Touch_off_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Touch off (From \"The Promised Neverland\")",
+      "artist": "ShiroNeko",
+      "has_synced": false,
+      "path": "select/11_Touch_off_(From__The_Promised_Neverland_)_ShiroNeko.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Touch off (instrumental)",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/12_Touch_off_(instrumental)_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Promised Neverland OP - Touch Off",
+      "artist": "Raon",
+      "has_synced": true,
+      "path": "select/13_The_Promised_Neverland_OP_-_Touch_Off_Raon.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Touch Off (From “the Promised Neverland”)",
+      "artist": "PelleK",
+      "has_synced": false,
+      "path": "select/14_Touch_Off_(From_“the_Promised_Neverland”)_PelleK.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Touch off",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/15_Touch_off_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Touch off",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/16_Touch_off_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Touch off (2019.6.6 at Okinawa MUSIC TOWN OTO-ICHIBA)",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/17_Touch_off_(2019.6.6_at_Okinawa_MUSIC_TOWN_OTO-ICHIBA)_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Touch Off (The Promised Neverland)",
+      "artist": "Myun",
+      "has_synced": false,
+      "path": "select/18_Touch_Off_(The_Promised_Neverland)_Myun.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Touch Off (From \"The Promised Neverland\")",
+      "artist": "Shayne Orok",
+      "has_synced": true,
+      "path": "select/19_Touch_Off_(From__The_Promised_Neverland_)_Shayne_Orok.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Touch off",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_Touch_off_UVERworld.txt"
+    }
+  ]
+}
